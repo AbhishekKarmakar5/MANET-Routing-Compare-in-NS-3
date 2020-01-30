@@ -31,9 +31,3 @@ Challenges on routing:
     Communication within an ad hoc network, inter-networking between MANET and fixed networks.
     Power consumption.
     Security and reliability.
-
-Architecture of MANET:
-
-Manet-Architecture
-
-Sample code for MANET:
