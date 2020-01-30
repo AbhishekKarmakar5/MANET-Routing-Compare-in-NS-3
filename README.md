@@ -53,3 +53,10 @@ mobility.InstallAll ();
 Config::Connect ("/NodeList/*/$ns3::MobilityModel/CourseChange",
 MakeCallback (&amp;CourseChange));
 [/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
+
+
+In order to run:-
+
+1st and foremost, copy the files to the scratch folder in ns-3.0.1 (or any other older version) then outside the scratch folder write
+
+-waf --run scratch/program.cc
