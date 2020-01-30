@@ -60,3 +60,5 @@ In order to run:-
 1st and foremost, copy the files to the scratch folder in ns-3.0.1 (or any other older version) then outside the scratch folder write
 
 -waf --run scratch/program.cc
+
+Please refer to the link :- https://github.com/AbhishekKarmakar5/Getting-Started-with-ns-3 before proceeding any further.
