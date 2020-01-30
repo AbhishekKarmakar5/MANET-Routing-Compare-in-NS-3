@@ -1,11 +1,12 @@
 # MANET-Routing-Compare-in-NS-3
 
+MANET. Stands for "Mobile Ad Hoc Network." A MANET is a type of ad hoc network that can change locations and configure itself on the fly. Because MANETS are mobile, they use wireless connections to connect to various networks.
 
-NS3 Manet Simulation
+# NS3 Manet Simulation
 
 In MANET, the routers are free to move randomly and organize themselves arbitrarily. Thus, the network’s wireless topology may change rapidly and unproductively.An ad hoc network is a collection of mobile nodes that dynamically form a temporary network and are capable of communicating with each other without the use of a network infrastructure or any centralized administration.We Provide customized NS3 MANET SIMULATION Projects for Students and Research Scholars based on your requirement and 100% satisfaction.
 
-Features of MANET:
+# Features of MANET:
 
     Energy constraint are of important consideration.
     Security is limited.
@@ -16,14 +17,14 @@ Features of MANET:
     Dynamic network topology and also frequent network updates.
     No centralized controller and infrastructure. Intrinsic mutual trust.
 
-Broadcasting approaches in MANET:
+# Broadcasting approaches in MANET:
 
     Geocasting.
     Unicasting.
     Broadcasting.
     Multicasting.
 
-Challenges on routing:
+# Challenges on routing:
 
     Location-aided routing.
     Routing.
@@ -33,7 +34,7 @@ Challenges on routing:
     Security and reliability.
 
 
-SAMPLE CODE FOR  MANET :--
+# SAMPLE CODE FOR  MANET :--
 
 CommandLine cmd;
 cmd.Parse (argc, argv);
@@ -59,6 +60,6 @@ In order to run:-
 
 1st and foremost, copy the files to the scratch folder in ns-3.0.1 (or any other older version) then outside the scratch folder write
 
--waf --run scratch/program.cc
+# -waf --run scratch/program.cc
 
 Please refer to the link :- https://github.com/AbhishekKarmakar5/Getting-Started-with-ns-3 before proceeding any further.
